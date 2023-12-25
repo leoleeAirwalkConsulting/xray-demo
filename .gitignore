@@ -1,0 +1,5 @@
+useful.txt
+.DS_Store
+.venv
+tf_src/.terraform
+tf_src/builds
